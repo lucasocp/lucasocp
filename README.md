@@ -21,53 +21,58 @@
   </a>
 </p>
 
-👨‍💻 Sobre mim
-Sou Estagiário de Engenharia de Dados na Quality Digital e graduando em Engenharia de Software na UCSal.
+---
 
-Meu foco atual está em construir e entender pipelines de dados, processos ETL/ELT e arquiteturas modernas de dados, utilizando tecnologias como Python, PySpark, SQL, Databricks, dbt e Airflow.
+## 👨‍💻 Sobre mim
 
-Também tenho interesse em IA Generativa, RAG, agentes inteligentes e desenvolvimento de APIs, buscando combinar engenharia de dados e software para construir sistemas confiáveis, escaláveis e orientados a dados.
+Sou **Estagiário de Engenharia de Dados na Quality Digital** e graduando em **Engenharia de Software na UCSal**.
 
-Data Engineering <br>
-├── Python <br>
-├── PySpark <br>
-├── SQL <br>
-├── Databricks <br> 
-├── dbt <br>
-├── Airflow <br>
-└── ETL / ELT <br>
+Meu foco atual está em construir e entender **pipelines de dados, processos ETL/ELT e arquiteturas modernas de dados**, utilizando tecnologias como **Python, PySpark, SQL, Databricks, dbt e Airflow**.
 
-Backend & Engineering <br>
-├── FastAPI <br>
-├── REST APIs <br>
-├── Docker <br>
-├── Git <br>
-└── Go <br>
+Também tenho interesse em **IA Generativa, RAG, agentes inteligentes e desenvolvimento de APIs**, buscando combinar engenharia de dados e software para construir sistemas confiáveis, escaláveis e orientados a dados.
 
-AI & Generative AI <br>
-├── LLMs <br>
-├── RAG <br>
-├── Vector Search <br>
-└── AI Agents <br>
-
-🚀 Projetos em destaque <br>
-
-Projeto	Descrição	Tecnologias <br>
-
-ifood-smart-ingestion-agent	Pipeline multi-agente para enriquecimento de cardápios não estruturados, inferência de alérgenos/dietas e busca semântica com RAG.	Python · FastAPI · ChromaDB · Pydantic · Docker <br>
-
-ifood-dispute-resolver-api	Agente ReAct para resolução auditável de disputas e estornos, com divisão de responsabilidade financeira e reconciliação batch.	Python · FastAPI · ReAct · Airflow · Docker <br>
-
-ifood-delivery-eta-refiner	Motor híbrido de previsão de ETA com processamento em PySpark e camada de LLM para interpretação de sinais não estruturados.	PySpark · Databricks · FastAPI · LLM · Docker <br>
-
-legal-scraper-api	API assíncrona para consulta e extração de dados de processos judiciais, simulando portais como e-SAJ/PJe.	Python · FastAPI · Async Scraping <br>
-
-Task-Service	API REST de tarefas com processamento concorrente utilizando goroutines e channels.	Go · SQLite <br>
-
-
-🛠️ Tech Stack <br>
-
+```text
 Data Engineering
+├── Python
+├── PySpark
+├── SQL
+├── Databricks
+├── dbt
+├── Airflow
+└── ETL / ELT
+
+Backend & Engineering
+├── FastAPI
+├── REST APIs
+├── Docker
+├── Git
+└── Go
+
+AI & Generative AI
+├── LLMs
+├── RAG
+├── Vector Search
+└── AI Agents
+```
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|:--|:--|:--|
+| [**ifood-smart-ingestion-agent**](https://github.com/lucasocp/ifood-smart-ingestion-agent) | Pipeline multi-agente para enriquecimento de cardápios não estruturados, inferência de alérgenos/dietas e busca semântica com RAG. | Python · FastAPI · ChromaDB · Pydantic · Docker |
+| [**ifood-dispute-resolver-api**](https://github.com/lucasocp/ifood-dispute-resolver-api) | Agente ReAct para resolução auditável de disputas e estornos, com divisão de responsabilidade financeira e reconciliação batch. | Python · FastAPI · ReAct · Airflow · Docker |
+| [**ifood-delivery-eta-refiner**](https://github.com/lucasocp/ifood-delivery-eta-refiner) | Motor híbrido de previsão de ETA com processamento em PySpark e camada de LLM para interpretação de sinais não estruturados. | PySpark · Databricks · FastAPI · LLM · Docker |
+| [**legal-scraper-api**](https://github.com/lucasocp/legal-scraper-api) | API assíncrona para consulta e extração de dados de processos judiciais, simulando portais como e-SAJ/PJe. | Python · FastAPI · Async Scraping |
+| [**Task-Service**](https://github.com/lucasocp/Task-Service) | API REST de tarefas com processamento concorrente utilizando goroutines e channels. | Go · SQLite |
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Engineering
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
@@ -77,7 +82,7 @@ Data Engineering
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
 </p>
 
-Backend & Infrastructure <br>
+### Backend & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
@@ -87,7 +92,7 @@ Backend & Infrastructure <br>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 </p>
 
-AI & Generative AI <br>
+### AI & Generative AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs">
@@ -96,22 +101,30 @@ AI & Generative AI <br>
   <img src="https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square&logoColor=white" alt="Vector Search">
 </p>
 
-Conceitos <br>
+### Conceitos
 
-ETL · ELT · Data Pipelines · Medallion Architecture · RAG · Vector Search · AI Agents · REST APIs · Async Processing · Automation <br>
+`ETL` · `ELT` · `Data Pipelines` · `Medallion Architecture` · `RAG` · `Vector Search` · `AI Agents` · `REST APIs` · `Async Processing` · `Automation`
+
+---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="./stats.svg" alt="GitHub Stats">
+  <img src="./github-stats.svg" alt="GitHub Stats" width="920">
 </p>
 
-🎯 Atualmente estudando <br>
-- Engenharia de Dados com Databricks, PySpark, Airflow e dbt <br>
-- Arquiteturas ETL/ELT e pipelines de dados escaláveis <br>
-- Arquitetura Medallion (Bronze → Silver → Gold) <br>
-- IA Generativa, RAG e agentes inteligentes <br>
-- Boas práticas de engenharia de software, APIs e sistemas distribuídos <br>
-📫 Contato <br>
+## 🎯 Atualmente estudando
+
+- Engenharia de Dados com **Databricks, PySpark, Airflow e dbt**
+- Arquiteturas **ETL/ELT** e pipelines de dados escaláveis
+- Arquitetura **Medallion (Bronze → Silver → Gold)**
+- **IA Generativa, RAG e agentes inteligentes**
+- Boas práticas de engenharia de software, APIs e sistemas distribuídos
+
+---
+
+## 📫 Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-oliveira-costa-pinto/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
