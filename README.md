@@ -27,6 +27,7 @@ Sou Estagiário de Engenharia de Dados na Quality Digital e graduando em Engenha
 Meu foco atual está em construir e entender pipelines de dados, processos ETL/ELT e arquiteturas modernas de dados, utilizando tecnologias como Python, PySpark, SQL, Databricks, dbt e Airflow.
 
 Também tenho interesse em IA Generativa, RAG, agentes inteligentes e desenvolvimento de APIs, buscando combinar engenharia de dados e software para construir sistemas confiáveis, escaláveis e orientados a dados.
+
 Data Engineering
 ├── Python
 ├── PySpark
@@ -48,16 +49,24 @@ AI & Generative AI
 ├── RAG
 ├── Vector Search
 └── AI Agents
+
 🚀 Projetos em destaque
+
 Projeto	Descrição	Tecnologias
+
 ifood-smart-ingestion-agent	Pipeline multi-agente para enriquecimento de cardápios não estruturados, inferência de alérgenos/dietas e busca semântica com RAG.	Python · FastAPI · ChromaDB · Pydantic · Docker
+
 ifood-dispute-resolver-api	Agente ReAct para resolução auditável de disputas e estornos, com divisão de responsabilidade financeira e reconciliação batch.	Python · FastAPI · ReAct · Airflow · Docker
+
 ifood-delivery-eta-refiner	Motor híbrido de previsão de ETA com processamento em PySpark e camada de LLM para interpretação de sinais não estruturados.	PySpark · Databricks · FastAPI · LLM · Docker
+
 legal-scraper-api	API assíncrona para consulta e extração de dados de processos judiciais, simulando portais como e-SAJ/PJe.	Python · FastAPI · Async Scraping
+
 Task-Service	API REST de tarefas com processamento concorrente utilizando goroutines e channels.	Go · SQLite
 
 
 🛠️ Tech Stack
+
 Data Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -69,6 +78,7 @@ Data Engineering
 </p>
 
 Backend & Infrastructure
+
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white" alt="REST API">
@@ -78,6 +88,7 @@ Backend & Infrastructure
 </p>
 
 AI & Generative AI
+
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs">
   <img src="https://img.shields.io/badge/RAG-6B46C1?style=flat-square&logoColor=white" alt="RAG">
@@ -86,7 +97,9 @@ AI & Generative AI
 </p>
 
 Conceitos
+
 ETL · ELT · Data Pipelines · Medallion Architecture · RAG · Vector Search · AI Agents · REST APIs · Async Processing · Automation
+
 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasocp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats">
