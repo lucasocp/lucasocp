@@ -102,8 +102,8 @@ ETL · ELT · Data Pipelines · Medallion Architecture · RAG · Vector Search �
 
 📊 GitHub Stats <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasocp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasocp&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasocp&show_icons=true&hide_border=true&theme=default" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasocp&layout=compact&hide_border=true&langs_count=8&theme=default" height="170" alt="Top Languages">
 </p>
 
 🎯 Atualmente estudando <br>
