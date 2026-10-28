@@ -28,44 +28,44 @@ Meu foco atual está em construir e entender pipelines de dados, processos ETL/E
 
 Também tenho interesse em IA Generativa, RAG, agentes inteligentes e desenvolvimento de APIs, buscando combinar engenharia de dados e software para construir sistemas confiáveis, escaláveis e orientados a dados.
 
-Data Engineering
-├── Python
-├── PySpark
-├── SQL
-├── Databricks
-├── dbt
-├── Airflow
-└── ETL / ELT
+Data Engineering <br>
+├── Python <br>
+├── PySpark <br>
+├── SQL <br>
+├── Databricks <br> 
+├── dbt <br>
+├── Airflow <br>
+└── ETL / ELT <br>
 
-Backend & Engineering
-├── FastAPI
-├── REST APIs
-├── Docker
-├── Git
-└── Go
+Backend & Engineering <br>
+├── FastAPI <br>
+├── REST APIs <br>
+├── Docker <br>
+├── Git <br>
+└── Go <br>
 
-AI & Generative AI
-├── LLMs
-├── RAG
-├── Vector Search
-└── AI Agents
+AI & Generative AI <br>
+├── LLMs <br>
+├── RAG <br>
+├── Vector Search <br>
+└── AI Agents <br>
 
-🚀 Projetos em destaque
+🚀 Projetos em destaque <br>
 
-Projeto	Descrição	Tecnologias
+Projeto	Descrição	Tecnologias <br>
 
-ifood-smart-ingestion-agent	Pipeline multi-agente para enriquecimento de cardápios não estruturados, inferência de alérgenos/dietas e busca semântica com RAG.	Python · FastAPI · ChromaDB · Pydantic · Docker
+ifood-smart-ingestion-agent	Pipeline multi-agente para enriquecimento de cardápios não estruturados, inferência de alérgenos/dietas e busca semântica com RAG.	Python · FastAPI · ChromaDB · Pydantic · Docker <br>
 
-ifood-dispute-resolver-api	Agente ReAct para resolução auditável de disputas e estornos, com divisão de responsabilidade financeira e reconciliação batch.	Python · FastAPI · ReAct · Airflow · Docker
+ifood-dispute-resolver-api	Agente ReAct para resolução auditável de disputas e estornos, com divisão de responsabilidade financeira e reconciliação batch.	Python · FastAPI · ReAct · Airflow · Docker <br>
 
-ifood-delivery-eta-refiner	Motor híbrido de previsão de ETA com processamento em PySpark e camada de LLM para interpretação de sinais não estruturados.	PySpark · Databricks · FastAPI · LLM · Docker
+ifood-delivery-eta-refiner	Motor híbrido de previsão de ETA com processamento em PySpark e camada de LLM para interpretação de sinais não estruturados.	PySpark · Databricks · FastAPI · LLM · Docker <br>
 
-legal-scraper-api	API assíncrona para consulta e extração de dados de processos judiciais, simulando portais como e-SAJ/PJe.	Python · FastAPI · Async Scraping
+legal-scraper-api	API assíncrona para consulta e extração de dados de processos judiciais, simulando portais como e-SAJ/PJe.	Python · FastAPI · Async Scraping <br>
 
-Task-Service	API REST de tarefas com processamento concorrente utilizando goroutines e channels.	Go · SQLite
+Task-Service	API REST de tarefas com processamento concorrente utilizando goroutines e channels.	Go · SQLite <br>
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack <br>
 
 Data Engineering
 <p align="left">
@@ -77,7 +77,7 @@ Data Engineering
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
 </p>
 
-Backend & Infrastructure
+Backend & Infrastructure <br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
@@ -87,7 +87,7 @@ Backend & Infrastructure
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 </p>
 
-AI & Generative AI
+AI & Generative AI <br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs">
@@ -96,23 +96,23 @@ AI & Generative AI
   <img src="https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square&logoColor=white" alt="Vector Search">
 </p>
 
-Conceitos
+Conceitos <br>
 
-ETL · ELT · Data Pipelines · Medallion Architecture · RAG · Vector Search · AI Agents · REST APIs · Async Processing · Automation
+ETL · ELT · Data Pipelines · Medallion Architecture · RAG · Vector Search · AI Agents · REST APIs · Async Processing · Automation <br>
 
-📊 GitHub Stats
+📊 GitHub Stats <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasocp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasocp&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages">
 </p>
 
-🎯 Atualmente estudando
-- Engenharia de Dados com Databricks, PySpark, Airflow e dbt
-- Arquiteturas ETL/ELT e pipelines de dados escaláveis
-- Arquitetura Medallion (Bronze → Silver → Gold)
-- IA Generativa, RAG e agentes inteligentes
-- Boas práticas de engenharia de software, APIs e sistemas distribuídos
-📫 Contato
+🎯 Atualmente estudando <br>
+- Engenharia de Dados com Databricks, PySpark, Airflow e dbt <br>
+- Arquiteturas ETL/ELT e pipelines de dados escaláveis <br>
+- Arquitetura Medallion (Bronze → Silver → Gold) <br>
+- IA Generativa, RAG e agentes inteligentes <br>
+- Boas práticas de engenharia de software, APIs e sistemas distribuídos <br>
+📫 Contato <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-oliveira-costa-pinto/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
