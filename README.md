@@ -100,10 +100,9 @@ Conceitos <br>
 
 ETL · ELT · Data Pipelines · Medallion Architecture · RAG · Vector Search · AI Agents · REST APIs · Async Processing · Automation <br>
 
-📊 GitHub Stats <br>
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasocp&show_icons=true&hide_border=true&theme=default" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasocp&layout=compact&hide_border=true&langs_count=8&theme=default" height="170" alt="Top Languages">
+  <img src="./stats.svg" alt="GitHub Stats">
 </p>
 
 🎯 Atualmente estudando <br>
