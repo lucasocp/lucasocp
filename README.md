@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Engenharia de Dados · IA Generativa · Backend</b><br>
-  Salvador, Brasil 🇧🇷
+  Salvador, Bahia, Brasil 🇧🇷
 </p>
 
 <p align="center">
